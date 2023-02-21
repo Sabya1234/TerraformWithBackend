@@ -1,0 +1,6 @@
+region="ap-south-1"
+bucket_name="tfdemo-s3bucket"
+dynamo_table_state="tf-demo-lock-state"
+dynamo_db_type="S"
+instance_ami="ami-0e742cca61fb65051"
+instance_type="t2.micro"
